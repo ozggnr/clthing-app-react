@@ -1,0 +1,8 @@
+//in css we are doing the same thing by; .categories-container .category-container {} --> .categories-container { .category-container: {} }
+.directory-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+  
